@@ -14,4 +14,4 @@
   - [Use Linux commands to manage file permissions](https://github.com/joshmadakor1/Sentinel-Lab)
 
 - <b>SQL</b>
-  - [Applying filters to SQL queries](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Applying filters to SQL queries](https://github.com/DonteMar/Linux)
