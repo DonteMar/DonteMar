@@ -15,3 +15,6 @@
 
 - <b>SQL</b>
   - [Applying filters to SQL queries](https://github.com/DonteMar/SQL)
+
+#Credit
+  - [Credit to JOSH](https://github.com/joshmadakor1)
