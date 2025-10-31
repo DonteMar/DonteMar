@@ -1,4 +1,4 @@
-<h1>Greetings, I'm Donte! <br/><a>Looking to Specialize in Security/Networking
+<h1>Greetings, I'm Donte! <br/><a>Looking to Specialize in Management of Information Systems
 <h2>👨‍💻Porfolio:</h2>
   
 - <b>Networking/Security </b>
